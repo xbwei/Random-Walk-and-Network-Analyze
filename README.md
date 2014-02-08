@@ -2,9 +2,12 @@ RandomWalk
 ==========
 This tool can be used in ArcGIS as a python tool box.
 
-Four function are provided:
+Four functions are provided:
 
-Graph construct;
-Randdom walk calculation;
-Random walk result check;
-Network measurment from Networkx
+  Graph construct; 
+
+  Randdom walk calculation;
+
+  Random walk result check;
+
+  Network measurment from Networkx
