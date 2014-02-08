@@ -6,8 +6,8 @@ Four functions are provided:
 
   Graph construct; 
 
-  Randdom walk calculation;
+  Random walk calculate;
 
   Random walk result check;
 
-  Network measurment from Networkx
+  Network measurement calculate (using Networkx)
