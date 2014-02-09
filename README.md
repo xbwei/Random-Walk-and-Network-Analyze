@@ -11,3 +11,5 @@ Four functions are provided:
   Random walk result check;
 
   Network measurement calculate (using Networkx)
+
+https://raw.github.com/xbwei/Random-Walk-and-Network-Analyze/master/Interface.png
