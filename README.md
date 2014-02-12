@@ -13,3 +13,4 @@ Four functions are provided:
   Network measurement calculate (using Networkx)
 
 ![alt tag](https://raw.github.com/xbwei/Random-Walk-and-Network-Analyze/master/Interface.png)
+![alt tag](https://raw.github.com/xbwei/Random-Walk-and-Network-Analyze/master/Atlanta_Random_Edge.jpg)
