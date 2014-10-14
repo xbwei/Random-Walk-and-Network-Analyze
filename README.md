@@ -3,7 +3,9 @@ RandomWalk
 
 ==========
 This tool can be used in ArcGIS as a python tool box.
+
 Wei, X and X. A. Yao (2014). The Random Walk Value for Ranking Spatial Characteristics in Road Networks. Geographical Analysis 46 (4):411–434.
+
 http://onlinelibrary.wiley.com.proxy-remote.galib.uga.edu/doi/10.1111/gean.12064/abstract
 
 Four functions are provided:
