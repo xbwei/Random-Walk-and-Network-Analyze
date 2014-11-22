@@ -8,15 +8,17 @@ Wei, X and X. A. Yao (2014). The Random Walk Value for Ranking Spatial Character
 
 http://onlinelibrary.wiley.com/doi/10.1111/gean.12064/abstract
 
+Demo video: https://www.youtube.com/watch?v=9NahxrGiQHA
+
 Four functions are provided:
 
-  Graph/network construct; 
+  1) Graph/network construct; 
 
-  Random walk calculate;
+  2) Random walk calculate;
 
-  Random walk result check;
+  3) Random walk result check;
 
-  Network measurement calculate (using Networkx), .e.g, degree, clossness, betweenness and PageRank.
+  4) Network measurement calculate (using Networkx), .e.g, degree, clossness, betweenness and PageRank.
 
 ![alt tag](https://raw.github.com/xbwei/Random-Walk-and-Network-Analyze/master/Interface.png)
 ![alt tag](https://raw.github.com/xbwei/Random-Walk-and-Network-Analyze/master/Atlanta_Random_Edge.jpg)
