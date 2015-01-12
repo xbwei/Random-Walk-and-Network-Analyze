@@ -6,6 +6,7 @@ Wei, X and X. A. Yao (2014). The Random Walk Value for Ranking Spatial Character
 http://onlinelibrary.wiley.com/doi/10.1111/gean.12064/abstract
 
 Demo video: https://www.youtube.com/watch?v=9NahxrGiQHA
+<iframe width="560" height="315" src="//www.youtube.com/embed/9NahxrGiQHA" frameborder="0" allowfullscreen></iframe>
 
 Four functions are provided:
 <ol>
