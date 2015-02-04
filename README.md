@@ -7,6 +7,7 @@ http://onlinelibrary.wiley.com/doi/10.1111/gean.12064/abstract
 
 Demo video: https://www.youtube.com/watch?v=9NahxrGiQHA
 
+Tutorial: http://blog.lbsocial.net/2015/02/calculate-spatial-importance-of-road.html
 
 Four functions are provided:
 <ol>
