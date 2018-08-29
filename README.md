@@ -1,4 +1,4 @@
-#Random Walk Calculation and Network Analysis in ArcGIS [![Build Status](https://travis-ci.org/xbwei/Random-Walk-and-Network-Analyze.svg?branch=master)](https://travis-ci.org/xbwei/Random-Walk-and-Network-Analyze)
+# Random Walk Calculation and Network Analysis in ArcGIS [![Build Status](https://travis-ci.org/xbwei/Random-Walk-and-Network-Analyze.svg?branch=master)](https://travis-ci.org/xbwei/Random-Walk-and-Network-Analyze)
 
 This tool can be used in ArcGIS as a python tool box to calculate the Random Walk Values of a given road network.The code is provided as it is. You can use it to test your own dataset freely. When publish your work, please cite it as:
 
